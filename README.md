@@ -30,3 +30,8 @@ The simulation focused on incident response, digital forensics, and cloud securi
 ## 🎓 Certification
 
 This virtual experience program is provided by [Forage](https://www.theforage.com/) in collaboration with Deloitte Australia.
+
+## 👤 Author
+
+**Kanishk Khan**
+-   GitHub: [@Kanishkhan](https://github.com/Kanishkhan)
